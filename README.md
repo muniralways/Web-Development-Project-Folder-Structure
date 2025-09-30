@@ -29,7 +29,7 @@ This project demonstrates how to use **Bootstrap**, **Bootstrap Icons**, and **F
 ---
 
 ## 📂 Folder Structure
-
+```plaintext
 Demo/
 │
 ├── index.html                # Main HTML file
